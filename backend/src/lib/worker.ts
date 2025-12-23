@@ -41,4 +41,4 @@ new Worker(
   { connection: redis }
 );
 
-console.log("Worker started working");
+console.log("BullMQ working");
